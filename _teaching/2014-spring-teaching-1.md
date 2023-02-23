@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Fundamentals of Calculus II"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "TEACHING ASSISTANT"
+#permalink: /teaching/2015-spring-teaching-1
+venue: "University of Vermont"
+date: 2022-01-18
+location: "Burlington, Vermont"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Techniques and applications of integration. An introduction to multi-variable calculus: partial derivatives and double integrals.
 
-Heading 1
-======
 
-Heading 2
-======
 
-Heading 3
-======
+
+
+
