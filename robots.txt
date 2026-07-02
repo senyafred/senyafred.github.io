@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://senyafred.github.io/sitemap.xml
