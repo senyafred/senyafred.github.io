@@ -1,0 +1,123 @@
+cv:
+  name: Frederick Senya
+  label: PhD Candidate, Applied Mathematics
+  email: fsenya@uvm.edu
+  location: United States
+  image: ""
+  summary: >
+    PhD candidate in Applied Mathematics at the University of Vermont working in
+    mathematical and computational biology, systems biology, and scientific
+    computing. Experienced in mathematical modeling (ODEs/PDEs, flux balance
+    analysis), Bayesian inference, predictive and statistical modeling, and
+    teaching mathematics.
+
+  social_networks:
+    - network: GitHub
+      username: senyafred
+    - network: LinkedIn
+      username: frederick-senya
+
+  sections:
+    Education:
+      - institution: University of Vermont
+        location: Burlington, VT, USA
+        url: https://www.uvm.edu/cems/mathstat
+        area: Applied Mathematics (Mathematical Sciences)
+        studyType: PhD
+        start_date: 2022
+        end_date: Present
+        highlights:
+          - "Research in mathematical biology and biogeochemical modeling, advised by Prof. Daniel Bentil."
+          - "Coupling flux balance analysis with reaction-diffusion PDEs for spatial microbial-community dynamics."
+
+      - institution: National Institute for Mathematical Sciences (NIMS), KNUST
+        location: Ghana
+        area: Scientific Computing and Industrial Modeling
+        studyType: MPhil
+        start_date: 2017
+        end_date: 2019
+
+      - institution: Kwame Nkrumah University of Science and Technology (KNUST)
+        location: Kumasi, Ghana
+        area: Mathematics
+        studyType: BSc
+        start_date: 2011
+        end_date: 2015
+
+    Experience:
+      - company: University of Vermont
+        position: Graduate Research Assistant
+        location: Burlington, VT, USA
+        start_date: 2022
+        end_date: Present
+        highlights:
+          - "Built an equation-based framework integrating flux balance analysis with reaction-diffusion PDEs to simulate spatial and temporal dynamics of microbial communities; first-author preprint (Senya et al., bioRxiv 2026)."
+          - "Applied predictive modeling to virtual-care data, classifying chronic kidney disease patients by stage-degeneration probability; co-authored work presented at SIAM Mathematical Problems in Industry (Ashenafi et al.)."
+          - "Used Bayesian inference with MCMC to estimate posterior distributions and quantify uncertainty in experimental linguistic-stimulus (pupillometry) data."
+          - "Applied time-series analysis and parameter estimation across multiple datasets; produced publication-quality visualizations with Matplotlib."
+
+      - company: University of Vermont
+        position: Instructor of Mathematics
+        location: Burlington, VT, USA
+        start_date: 2022
+        end_date: Present
+        highlights:
+          - "Taught 45-51 students per section across 5 courses spanning Algebra, Pre-Calculus, Calculus, and Modern Mathematics."
+          - "Analyzed student-performance data to adapt instruction and improve outcomes; consistently rated 4.4-4.8/5 for building an inclusive, respectful classroom."
+
+      - company: Envision by WorldStrides
+        position: Advisor & Scholar Support Educator (Seasonal)
+        location: Leesburg, VA, USA
+        start_date: 2023
+        end_date: 2024
+        highlights:
+          - "Delivered full-day educational curriculum to diverse K-12 scholars in a program serving 300+ participants across two summer cohorts."
+          - "Adapted instruction to mixed-age, mixed-ability groups and mentored scholars' social-emotional development."
+
+      - company: Ghana Statistical Service
+        position: Data Analyst & Regional Trainer (Seasonal)
+        location: Central Region, Ghana
+        start_date: 2021
+        end_date: 2021
+        highlights:
+          - "Supervised data collection, QA, and analysis for the 2021 Ghana National Population and Housing Census across 50+ enumerators."
+          - "Trained 50+ field officers on collection protocols and data-accuracy standards; delivered daily analytical reports to the district monitoring team."
+
+      - company: Cape Coast Technical University
+        position: Lecturer
+        location: Cape Coast, Ghana
+        start_date: 2021
+        end_date: 2021
+        highlights:
+          - "Taught Computer & Digital Literacy with hands-on applications; developed and graded assessments with constructive feedback."
+
+      - company: University of Ghana
+        position: Research & Teaching Assistant
+        location: Accra, Ghana
+        start_date: 2019
+        end_date: 2020
+        highlights:
+          - "Conducted mathematical-biology research under US Fulbright Scholar Prof. Daniel Bentil."
+          - "Served as a Computational Mathematics teaching assistant (instruction, grading, mentoring)."
+
+    Skills:
+      - name: Programming & Tools
+        icon: fa-solid fa-code
+        keywords: "Python, MATLAB, R, Mathematica, LaTeX, Git"
+
+      - name: Modeling & Methods
+        icon: fa-solid fa-square-root-variable
+        keywords: "Mathematical modeling, ODEs & PDEs, Flux Balance Analysis, Bayesian inference (MCMC), numerical analysis, dynamical systems, complex systems"
+
+      - name: Data Science
+        icon: fa-solid fa-chart-line
+        keywords: "Predictive & statistical modeling, time-series analysis, parameter estimation, data visualization, multivariate data analysis"
+
+    Research Interests:
+      - name: Interests
+        icon: fa-solid fa-flask
+        keywords: "Mathematical & computational biology, systems biology, biogeochemical modeling, differential equations, numerical analysis, data science"
+
+    Languages:
+      - name: English
+        summary: "Fluent"

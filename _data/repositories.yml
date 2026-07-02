@@ -1,0 +1,14 @@
+github_users:
+  - senyafred
+
+repo_description_lines_max: 2
+
+github_repos:
+  - senyafred/flux-balance-analysis
+  - senyafred/schistosomiasis-modeling
+  - senyafred/egfr-ckd-analysis
+  - senyafred/complex-systems-modeling
+  - senyafred/bayesian-statistics
+  - senyafred/mathematica-dynamical-systems
+  - senyafred/image-processing-matlab
+  - senyafred/wave-equation-finite-difference
