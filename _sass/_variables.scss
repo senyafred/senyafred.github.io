@@ -1,0 +1,28 @@
+/* ---- Custom typography override: elegant academic serif (EB Garamond) ---- */
+$serif-stack: "EB Garamond", Georgia, "Times New Roman", Times, serif;
+$mono-stack: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+
+:root {
+  --global-font-family: #{$serif-stack};
+}
+
+body,
+h1, h2, h3, h4, h5, h6,
+p, a, li, span, small, strong, em, blockquote,
+th, td, figcaption, label, button, input, textarea,
+nav, .navbar, .navbar a, .navbar-brand,
+.profile, .profile *, .card, .post, .cv, .contact-note {
+  font-family: $serif-stack !important;
+}
+
+/* keep real code monospaced */
+code, pre, kbd, samp, tt, .highlight, .highlight * {
+  font-family: $mono-stack !important;
+}
+
+/* serif reads a touch larger; give it comfortable rhythm */
+body {
+  font-size: 1.12rem;
+  line-height: 1.6;
+}
+h1 { letter-spacing: 0.2px; }
